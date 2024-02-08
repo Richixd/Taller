@@ -1,0 +1,10 @@
+int var;
+int var=3;
+int var1, var2;
+int var1=3, var2=5;
+int var1;
+va1=2;
+int var1=var2;
+int var1, va2;
+var1=var2;
+var2=var1

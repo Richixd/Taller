@@ -1,0 +1,16 @@
+device dev
+tris asig num
+port asig num
+tris dot num asig num
+port dot num asig num
+tris dot num asig binary
+port dot num asig binary
+id colon
+delay num
+goto id
+end
+tris asig binary
+port asig binary
+port asig id
+byte id
+id asig num
